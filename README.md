@@ -3,9 +3,9 @@
 
 ### Enhance an existing project
 
-1. Fix the app's bugs
+1. Fix the app bugs
 2. Add tests to app
-3. Analyze performance both the app and competitor's app
+3. Analyze performance both the app and competitor app
 4. Write technical documentation
 
 - [x] Implement unit and functional tests in a web application
